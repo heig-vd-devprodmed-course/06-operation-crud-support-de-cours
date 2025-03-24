@@ -10,3 +10,4 @@
 		<h1>Template Laravel</h1>
 	</body>
 </html>
+ 
